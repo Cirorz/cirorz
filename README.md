@@ -15,7 +15,7 @@
 | Nom du réseau  | Pseudo          | Actif or Inactif |
 | :--------------- |:---------------:| -----:|
 | Twitter |   @Cir0rz        |  Actif |
-| Discord |  Cirorz'XZ.#1337            |   Actif |
+| Discord |  Cirorz.#1337            |   Actif |
 | YouTube | Cirorz.          |    Inactif |
 ---------------
 **_LANGAGES :_**
