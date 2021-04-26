@@ -15,12 +15,12 @@
 | Nom du réseau  | Pseudo          | Actif or Inactif |
 | :--------------- |:---------------:| -----:|
 | Twitter |   @Cir0rz        |  Actif |
-| Discord |  Cirorz.#1337            |   Actif |
+| Discord |  Cirorz.#7777           |   Actif |
 | YouTube | Cirorz.          |    Inactif |
 ---------------
 **_LANGAGES :_**
-- [x] JavaScript
+- [x] ASM
 - [x] PHP
-- [x] HTML/CSS
-- [ ] ASM
+- [x] Gros Pecs
+- [ ] Nul
 ---------------
