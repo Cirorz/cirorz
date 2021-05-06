@@ -1,7 +1,7 @@
 ## Cirorz 👤
 --------------
 ### Présentation 📄
-#### Date : (21/04/21) 📅
+#### Date : (X/X/21) 📅
 --------------
 **_INFORMATIONS :_**
 
@@ -15,7 +15,7 @@
 | Nom du réseau  | Pseudo          | Actif or Inactif |
 | :--------------- |:---------------:| -----:|
 | Twitter |   @Cir0rz        |  Actif |
-| Discord |  Cirorz.#7777           |   Actif |
+| Discord |  Cirorz ' SA.#1334           |   Actif |
 | YouTube | Cirorz.          |    Inactif |
 ---------------
 **_LANGAGES :_**
