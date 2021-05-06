@@ -20,7 +20,7 @@
 ---------------
 **_LANGAGES :_**
 - [x] ASM
-- [x] PHP
-- [x] Gros Pecs
+- [x] HTML
+- [x] RUBY
 - [ ] Nul
 ---------------
